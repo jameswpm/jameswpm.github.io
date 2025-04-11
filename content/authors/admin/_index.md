@@ -20,12 +20,12 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Software Engineer
+role: AI & Software Engineering Researcher
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: IMT Atlantique
-    url: https://www.imt-atlantique.fr/fr
+  - name: CEA-List
+    url: https://list.cea.fr/en/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -43,9 +43,10 @@ profiles:
     url: https://orcid.org/0000-0001-9023-3286
 
 interests:
+  - Artificial Intelligence (AI)
+  - AI Engineering
   - Model-Driven Engineering (MDE)
   - Domain-Specific Languages (DSL)
-  - Artificial Intelligence (AI)
   - Cybersecurity
 
 education:
@@ -63,7 +64,7 @@ education:
     date_start: 2014-03-01
     date_end: 2017-02-06
     summary: |
-      Courses included:
+      Courses:
       - Computer and Network Security
       - Databases 
       - Mathematical Methods in Scientific Computing
@@ -77,7 +78,7 @@ education:
     summary: |
       GPA: 7.62/10.0
       
-      Courses included (hisghlights):
+      Courses (highlights):
       - Software Engineering
       - Fundamentals of Computer Science
       - Formal Aspects of Computing
@@ -87,46 +88,52 @@ education:
       - Compilers
       - Graph Theory
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
-    company_logo: ''
-    date_start: 2021-01-01
+  - position: AI & Software Engineering Postdoctoral Researcher
+    company_name: CEA-List
+    company_url: 'https://list.cea.fr/en/'
+    company_logo: 'assets/media/icons/cealist_logo'
+    date_start: 2025-02-17
     date_end: ''
     summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      Research on the use of LLM-based agents for Software Engineering
+  - position: Researcher (PhD Student)
+    company_name: IMT Atlantique
+    company_url: 'https://www.imt-atlantique.fr/en'
+    company_logo: 'assets/media/icons/imt_atlantique_logo'
+    date_start: 2022-01-02
+    date_end: 2025-01-31
     summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      Research on the integration of AI technologies into Model-Driven Engineering to enhance modeling tools at LS2N lab within the Naomod research group.
+      Contributions included:
+      - In-depth research around EMF/Eclipse internals and advanced AI technologies, including Graph Neural Networks (GNNs) and Large Language Models (LLMs), resulting in successful publications at international conferences.
+      - Development of open-source prototypes to complement and support published research.
+      - Collaboration with academic and industrial partners in the AIDOaRt European project, contributing to cutting-edge research and innovation.
+  - position: Software Developer
+    company_name: Segura Security
+    company_url: 'https://segura.security/'
+    company_logo: 'assets/media/icons/senhasegura_logo'
+    date_start: 2018-02-02
+    date_end: 2022-06-01
+    summary: |
+      Led development of critical modules for senhasegura's Privileged Access Management (PAM) tool.
+      Contributions included:
+      - Enhanced the Discovery module with new technologies to the product catalog, including Unix, IBM DataPower, and Websphere.
+      - Developed and released the first version of the Single-Sign-On feature.
+      - Contributed to developing the certificates management module, from initial requirements to the first release.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
   - name: Technical Skills
     items:
-      - name: Python
-        description: ''
-        percent: 80
+      - name: Python & Java
         icon: code-bracket
-      - name: Data Science
-        description: ''
-        percent: 100
+      - name: AI Engineering
         icon: chart-bar
       - name: SQL
-        description: ''
-        percent: 40
         icon: circle-stack
+      - name: Cybersecurity
+        icon: hero/lock-closed
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
