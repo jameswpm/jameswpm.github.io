@@ -2,9 +2,6 @@
 # Display name
 title: James Pontes Miranda
 
-# Name pronunciation (optional)
-name_pronunciation: j AI m z
-
 # Full name (for SEO)
 first_name: James
 last_name: Pontes Miranda
