@@ -38,6 +38,9 @@ profiles:
     url: https://scholar.google.com/citations?user=UgSfCjYAAAAJ&hl=en
   - icon: academicons/orcid
     url: https://orcid.org/0000-0001-9023-3286
+  - icon: devicon/stackoverflow
+    url: https://stackoverflow.com/users/3943162/james
+
 
 interests:
   - Artificial Intelligence (AI)
