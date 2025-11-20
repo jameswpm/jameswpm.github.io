@@ -147,8 +147,11 @@ skills:
 
 languages:
   - name: English
+    percentage: 90
   - name: Portuguese
+    percentage: 100
   - name: French
+    percentage: 50
 
 
 # Awards.
