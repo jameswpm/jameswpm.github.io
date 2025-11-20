@@ -29,4 +29,7 @@ abstract: Model-driven engineering (MDE) supports the engineering of complex sys
   approach by implementing a prototype combining EMF Views with PyEcore and PyTorch
   Geometric. Our experiments show promising results regarding the ease-of-use of our
   approach and the relevance of the inferred inter-model links.
+
+url_code: 'https://github.com/NaoMod/Support-ML-Relations-Model-Views'
+
 ---

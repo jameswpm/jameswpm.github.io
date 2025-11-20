@@ -16,4 +16,8 @@ doi: 10.1145/3687997.3695650
 links:
 - name: URL
   url: https://dl.acm.org/doi/10.1145/3687997.3695650
+
+url_code: 'https://github.com/NaoMod/Towards-an-In-context-LLM-based-Approach-for-Model-Views'
+url_video: 'https://www.youtube.com/watch?v=ydE9o3DAd8w'
+url_slides: 'https://zenodo.org/records/14446887'
 ---
