@@ -17,5 +17,5 @@ main:
     url: activities/
     weight: 15
   - name: Blog
-    url: posts/
+    url: post/
     weight: 13
