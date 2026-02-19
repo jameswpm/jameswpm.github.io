@@ -139,10 +139,10 @@ skills:
     color_border: '#f0bf23'
     items:
       - name: Comic Books
-        description: By far, reading and talking about comic books is my passion.'
+        description: 'Reading and talking about comic books'
         icon: book-open
       - name: Music
-        description: 'I like to listen to music with attention and not only as background noise. Also like to talk about it. (In another life, I tried to play some instruments too)'
+        description: 'In another life, I even tried to play some instruments'
         icon: musical-note
 
 languages:
@@ -163,7 +163,9 @@ awards:
     date: '2024-05-29'
     awarder: AIDOaRt
     summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
+      As part of the AIDOaRt project, I actively particpated on tyhe internal Hackatons promoted by the project.
+      In the last event promoted to close the project, the team I was prt of own the 1st place as the best solution.
+      Find details about the project and hackaton outcomes on the Linkedin post.
 ---
 
 ## About Me
