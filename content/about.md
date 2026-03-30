@@ -43,3 +43,7 @@ Unless explicitly stated otherwise, content created by me and hosted on this sit
 #### On my use of LLMs
 
 As a researcher in this area, I actively use LLMs (and other AI models) for different tasks, including writing and coding. On this site, their use is mostly limited to grammar and orthographic review. Whenever a model is used to generate content, it will be clearly stated.
+
+#### Tracking
+
+I currently have [Simple Analytics](https://www.simpleanalytics.com/) set up for this domain. My idea is just to have some visibility of how many people are reading me, but I do not track anything else from visitors.

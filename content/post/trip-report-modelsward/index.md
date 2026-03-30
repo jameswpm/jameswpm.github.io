@@ -2,7 +2,7 @@
 title: Between Mountains and Models in Marbella
 summary: Quick trip report and some comments on MODELSWARD 2026
 date: 2026-03-13
-lastmod: 2026-03-17
+lastmod: 2026-03-27
 
 authors:
   - admin
@@ -45,6 +45,6 @@ Visit the conference [website](https://modelsward.scitevents.org/?y=2026).
 
 [Here is the slide deck](https://doi.org/10.5281/zenodo.18999772) of my presentation on MODELDSWARD 2026 for those curious about it.
 
-The paper should be released soon with the conference proceedings and I will link it here when it becomes public.
+[Link to the paper](https://www.scitepress.org/Papers/2026/142367/142367.pdf)
 
 --------------------------------------------------
