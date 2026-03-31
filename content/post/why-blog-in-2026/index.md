@@ -2,7 +2,7 @@
 title: Why to create a blog?
 summary: Why I decided to blog in 2026 and what you may expect on my posts.
 date: 2026-03-26
-lastmod: 2026-03-30
+lastmod: 2026-03-31
 
 authors:
   - admin
@@ -30,7 +30,7 @@ Essentially, my objective is to keep this space as as the main repository of my 
 
 So that's the deal with myself: even with few or no readers, I'll try to write about me, my work, and my hobbies. It does not mean that I'm not putting effort into making it a good place to visit from time to time.
 
-Although this blog can be partly a personal portfolio, I'm somewhat aligned with the "slow web manifesto" (https://www.jackcheng.com/the-slow-web/), so I'm not committed to a set periodicity or strict content coherence. However, I like to have plans, so let's be explicit about what you may find here now or in the future.
+Although this blog can be partly a personal portfolio, I'm somewhat aligned with the ["slow web manifesto"](https://www.jackcheng.com/the-slow-web/), so I'm not committed to a set periodicity or strict content coherence. However, I like to have plans, so let's be explicit about what you may find here now or in the future.
 
 If you'd like to read my technical writing, please check my [publications](/publication/).
 
