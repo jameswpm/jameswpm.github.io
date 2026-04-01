@@ -1,7 +1,7 @@
 ---
 title: I listened to the 1001 (?) albums I should listen to before I die
 summary: My April's Cool post about my experience listening to all albums from the book "1001 albums you should listen to before die"
-date: 2026-04-01
+date: 2026-03-31
 lastmod: 2026-04-01
 
 authors:
