@@ -1,0 +1,4 @@
+.post-content p,
+.prose p {
+    text-align: justify;
+}
