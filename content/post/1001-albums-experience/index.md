@@ -68,13 +68,13 @@ My selection "favorite album" was "MTV Unplugged In New York" from Nirvana. The 
 
 {{< youtube pOTkCgkxqyg >}}
 
-The project also made me have contact with a lot (I mean, A LOT) of strange stuff. Some noisy rock, free jazz, and experimental songs that I surely will never try by myself. The strangest one? Play the video below and let me know what you think of hardcore jazz.
+The project also made me have contact with a lot (I mean, A LOT) of strange stuff. Some noisy rock, free jazz, and experimental songs that I surely would never try by myself. The strangest one? Play the video below and let me know what you think of hardcore jazz.
 
 {{< youtube nVGbz62Do2o >}}
 
 Joyful right? 🙃 I don't know what you think, but I was really pleased to have the opportunity to listen to it. These musicians know what they are doing when they decide to go for this ride.
 
-At the end, no matter if I enjoyed it, if it became a new favorite, or if I just forgot about it in the minute the album ended on my earphones, going through the full list of albums was a great experience that I indeed recommend to anyone. It will not exactly teach you many things, but I'm sure it will change you.
+At the end, no matter if I enjoyed it, if it became a new favorite, or if I just forgot about it in the minute the album ended on my earphones, going through the full list of albums was a great experience that I indeed recommend to anyone. It will not exactly teach you many things, but I'm sure it will touch you.
 
 ### The problems of the list
 
@@ -90,7 +90,7 @@ I didn't read the book yet, but going through the full list and reading almost a
 
 Well, I'm not alone on this project, since there is a website on HackerNews about it. According to the site [stats](https://1001albumsgenerator.com/stats), around 65000 people are trying to finish the list before they die when I'm writing this post.
 
-Other 500-ish people finished the list, and (since now we're all addicts) each can suggest an album to the list that wasn't included in the original 1001 (in any version). The community around the site is now the curator for new albums. I've listened to almost 250 albums from the [user's list](https://1001albumsgenerator.com/shares/6001a529f8788417fbd1d6fd/user-albums). It is at the same time an extension of the original experience and a completely new one, since now the list is much more about me listening to the favorite albums of other people and less a professional selection of essential albums. At first glance, it does not look so different, but having access to people's minds (at least a tiny part of it) is a strange and interesting experience.
+Other 500-ish people finished the list, and (since now we're all addicts) each can suggest an album to the list that wasn't included in the original 1001 (in any version). The community around the site is now the curator for new albums. I've listened to almost 250 albums from the [user's list](https://1001albumsgenerator.com/shares/6001a529f8788417fbd1d6fd/user-albums). It is, at the same time, an extension of the original experience and a completely new one, since now the list is much more about me listening to other people's favorite albums and less about a professional selection of essential albums. At first glance, it does not look so different, but having access to people's minds (at least a tiny part of it) is a strange and interesting experience.
 
 The user's list is full of hidden and underground bands, cliché-pop that is someone's favorite, even being objectively a bad album, and new and interesting discoveries from a lot of different countries, origins, languages, and cultures. Another opportunity to touch the extent of human creativity through music is really exciting. Even though I am much less disciplined in the matter of listening to an album every weekday, I still follow the list from time to time and feed my ears with novelty. The new list is much more diverse than the original one, even though it's possible to understand the problems that come from a non-methodological album selection.
 
