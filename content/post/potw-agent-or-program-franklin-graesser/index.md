@@ -32,4 +32,9 @@ The note below will be the header of all fllowing POTW posts.
 The Paper Of The Week (POTW) series is a series of post where I select a paper I have read recentely (less than 6 months) and share my toughts about it. If possible, I can try to reproduce the paper results. Important to note that usually, this is not a critical review, but rather a insightful analysis of the paper proposal. My filter to select the paper is quite random: classical relevant papers, new breakthroughs, hidden gems are all included. My intention here is not replace a careful reading or analysis, but give my views and toughts on given topic.
 {{< /callout >}}
 
-For the first post of the POTW, I select a classical paper that 
+For the first post of the POTW, I select a classical paper that is a bit different from the usual, since it's classified as essay, which means it is more fcused on the writer(s) views and perpectives and less in observable evidences or development of new tools and algorithms. To my perspective, essyas are not so common in computer science/software engineering as it is in other reserach fields (STEAM-related or not), but this one is a good one to start this series. Some may think that a opiniion on someone else's opinion may be counter-productive, but I'll ry to overcome it with some novelty from the LLM world.
+
+The paper: ""
+The author's abstract:
+
+I'm classifying this paper as "classical" due to its age (it was originally published in TODO), but its contents is stiill interesting and highly relevant for the current landscape of increasing use of agents around tech people. After all, what is an agent? Does it need to
