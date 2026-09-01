@@ -12,7 +12,10 @@ main:
     weight: 11
   - name: Experience
     url: experience/
-    weight: 14
+    weight: 13
   - name: Blog
     url: post/
-    weight: 13
+    weight: 14
+  - name: Newsletter
+    url: https://becomingaiappliedscientist.substack.com/
+    weight: 15
