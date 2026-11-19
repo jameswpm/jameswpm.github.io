@@ -2,6 +2,8 @@
 title: Hello!
 summary: Hello World post and test!
 date: 2025-11-24
+lastmod: 2026-11-19
+
 
 authors:
   - admin
@@ -31,7 +33,7 @@ class Hello {
 
 **Python Hello, world!**
 ```python
-print "Hello, world!"
+print("Hello, world!")
 ```
 
 **Clojure Hello, world!**
